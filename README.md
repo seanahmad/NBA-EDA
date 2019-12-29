@@ -1,16 +1,6 @@
 # Exploratory Data Analysis using NBA data.
 An exploratory data analysis on NBA data.
 
----
-title: 'Project 2: EDA and Basketball'
-author: "Theo Dimitrasopoulos"
-date: "`r Sys.Date()`"
-output:
-  pdf_document: default
-  html_document:
-    df_print: paged
----
-
 # Introduction
 Basketball (and professional sports in general) is currently undergoing a data analytics revolution. Previously, players in team sports were evaluated qualitatively (e.g. "Shaquille O'Neal is an all-time great because if he gets the ball close to the basket, he almost always scores"). Now, NBA teams (and spectators like us) have access to a great deal of data about the game. Analysts and teams can answer questions about players and teams in a data-driven way, and while oftentimes these quantitative results corroborate the qualitative observations, teams believe that there are advantages to be gained from analyzing the data well.
 
