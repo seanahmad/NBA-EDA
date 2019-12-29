@@ -1,4 +1,4 @@
-# Exploratory Data Analysis using NBA data.
+# NBA Data Analysis.
 An exploratory data analysis on NBA data.
 
 # Introduction
