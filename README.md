@@ -1,2 +1,2 @@
-# eda-basketball
-An exploratory data analysis on NBA data
+# Exploratory Data Analysis using NBA data.
+An exploratory data analysis on NBA data.
