@@ -1,11 +1,11 @@
 ---
-title: 'Project 2: EDA and Basketball'
+title: 'EDA and Basketball'
 author: "Theo Dimitrasopoulos"
 date: "`r Sys.Date()`"
 output:
-  pdf_document: default
   html_document:
     df_print: paged
+  pdf_document: default
 ---
 
 # Introduction
